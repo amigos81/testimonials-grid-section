@@ -103,9 +103,10 @@ body {
 .card-dark {
   background-color: var(--dark);
 }
-.card h2 {
+.card .title {
   font-size: 20px;
   font-weight: 600;
+  margin: 16px 0;
 }
 .card p {
   font-size: 13px;
