@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Four card feature section coding challenge](./desktop-preview.jpg)
+![Design preview for the Four card feature section coding challenge](./preview.jpg)
 
 ## Proceso
 
@@ -15,8 +15,8 @@ Construido con
 
 Servidor alojado:
 
-- [GitHub Pages]()
-- [Netlify]()
+- [GitHub Pages](https://github.com/amigos81/testimonials-grid-section.git)
+- [Netlify](https://timely-alpaca-bdf3ea.netlify.app)
 
 ## Autor
 
